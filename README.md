@@ -1,6 +1,4 @@
 # EducationInitiatives
-
-Mars Rover Programming Exercise
 Problem Statement
 Create a simulation for a Mars Rover that can navigate a grid-based terrain. Your Rover should be able to move forward, turn left, and turn
 right. You'll need to make sure that it avoids obstacles and stays within the boundaries of the grid. Remember to use pure Object-Oriented
@@ -20,7 +18,7 @@ Key Focus
 
 ## Usage
 1.clone the repositorites.
-https://github.com/KUNALGUPTA02/E-Commerce--Educational-Initiatives-.git
+https://github.com/RohanSaraogi/EducationInitiatives
 ```sh
 cd E-Commerce--Educational-Initiatives-main
 ```
