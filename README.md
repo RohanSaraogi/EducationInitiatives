@@ -20,7 +20,7 @@ Key Focus
 1.clone the repositorites.
 https://github.com/RohanSaraogi/EducationInitiatives
 ```sh
-cd E-Commerce--Educational-Initiatives-main
+cd -Educational-Initiatives-main
 ```
 2.Run the Application.
 ```sh
